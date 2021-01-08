@@ -593,3 +593,9 @@ TCG_PREVEZE.Deplasman_tonajı("PREVEZE")
 TCG_PREVEZE.Seyir_menzili("PREVEZE")
 
 # Helicopter
+NATO_Helicopter_90= Helicopter("NH90",1995,"Nato_ülkeleri")
+NATO_Helicopter_90.bilgileri_goster()
+NATO_Helicopter_90.length(16.180)
+NATO_Helicopter_90.max_kalkış_kütlesi(4200)
+NATO_Helicopter_90.distance(10600)
+
